@@ -1,0 +1,8 @@
+models/notes.txt
+models/__pycache__/
+data/MNIST/
+data/__pycache__/
+tmp/test_x.pt
+tmp/test_y.pt
+__pycache__/
+.dccache
